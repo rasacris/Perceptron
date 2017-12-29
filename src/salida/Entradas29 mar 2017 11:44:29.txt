@@ -1,0 +1,5991 @@
+entradas
+ID 0
+Fecha null
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 1
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 2
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 3
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 4
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 5
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 6
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 7
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 8
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 9
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 10
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 11
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 12
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 13
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 14
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 15
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 16
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 17
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 18
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 19
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 20
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 21
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 22
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 23
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 24
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 25
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 26
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 27
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 28
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 29
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 30
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 31
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 32
+Fecha 26
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 33
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 34
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 35
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 36
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 37
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 38
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 39
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 40
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 41
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 42
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 43
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 44
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 45
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 46
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 47
+Fecha 32
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 48
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 49
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 50
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 51
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 52
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 53
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 54
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 55
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 56
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 57
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 58
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 59
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 60
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 61
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 62
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 63
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 64
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 65
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 66
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 67
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 68
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 69
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 70
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 71
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 72
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 73
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 74
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 75
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 76
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 77
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 78
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 79
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 80
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 81
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 82
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 83
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 84
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 85
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 86
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 87
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 88
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 89
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 90
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 91
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 92
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 93
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 94
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 95
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 96
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 97
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 98
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 99
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 100
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 101
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 102
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 103
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 104
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 105
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 106
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 107
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 108
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 109
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 110
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 111
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 112
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 113
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 114
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 115
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 116
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 117
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 118
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 119
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 120
+Fecha 27
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 121
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 122
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 123
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 124
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 125
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 126
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 127
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 128
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 129
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 130
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 131
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 132
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 133
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 134
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 135
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 136
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 137
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 138
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 139
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 140
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 141
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 142
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 143
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 144
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 145
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 146
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 147
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 148
+Fecha 26
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 149
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 150
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 151
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 152
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 153
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 154
+Fecha 24
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 155
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 156
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 157
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 158
+Fecha 24
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 159
+Fecha 22
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 160
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 161
+Fecha 27
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 162
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 163
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 164
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 165
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 166
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 167
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 168
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 169
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 170
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 171
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 172
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 173
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 174
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 175
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 176
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 177
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 178
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 179
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 180
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 181
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 182
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 183
+Fecha 29
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 184
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 185
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 186
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 187
+Fecha 22
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 188
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 189
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 190
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 191
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 192
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 193
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 194
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 195
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 196
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 197
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 198
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 199
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 200
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 201
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 202
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 203
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 204
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 205
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 206
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 207
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 208
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 209
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 210
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 211
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 212
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 213
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 214
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 215
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 216
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 217
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 218
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 219
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 220
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 221
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 222
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 223
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 224
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 225
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 226
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 227
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 228
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 229
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 230
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 231
+Fecha 24
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 232
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 233
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 234
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 235
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 236
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 237
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 238
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 239
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 240
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 241
+Fecha 31
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 242
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 243
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 244
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 245
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 246
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 247
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 248
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 249
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 250
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 251
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 252
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 253
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 254
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 255
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 256
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 257
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 258
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 259
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 260
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 261
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 262
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 263
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 264
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 265
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 266
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 267
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 268
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 269
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 270
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 271
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 272
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 273
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 274
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 275
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 276
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 277
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 278
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 279
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 280
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 281
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 282
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 283
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 284
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 285
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 286
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 287
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 288
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 289
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 290
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 291
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 292
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 293
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 294
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 295
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 296
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 297
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 298
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 299
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 300
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 301
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 302
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 303
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 304
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 305
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 306
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 307
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 308
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 309
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 310
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 311
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 312
+Fecha 29
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 313
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 314
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 315
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 316
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 317
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 318
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 319
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 320
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 321
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 322
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 323
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 324
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 325
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 326
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 327
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 328
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 329
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 330
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 331
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 332
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 333
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 334
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 335
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 336
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 337
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 338
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 339
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 340
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 341
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 342
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 343
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 344
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 345
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 346
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 347
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 348
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 349
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 350
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 351
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 352
+Fecha 31
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 353
+Fecha 27
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 354
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 355
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 356
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 357
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 358
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 359
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 360
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 361
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 362
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 363
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 364
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 365
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 366
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 367
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 368
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 369
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 370
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 371
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 372
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 373
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 374
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 375
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 376
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 377
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 378
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 379
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 380
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 381
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 382
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 383
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 384
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 385
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 386
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 387
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 388
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 389
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 390
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 391
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 392
+Fecha 22
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 393
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 394
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 395
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 396
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 397
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 398
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 399
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 400
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 401
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 402
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 403
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 404
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 405
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 406
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 407
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 408
+Fecha 28
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 409
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 410
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 411
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 412
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 413
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 414
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 415
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 416
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 417
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 418
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 419
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 420
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 421
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 422
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 423
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 424
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 425
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 426
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 427
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 428
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 429
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 430
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 431
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 432
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 433
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 434
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 435
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 436
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 437
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 438
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 439
+Fecha 24
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 440
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 441
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 442
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 443
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 444
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 445
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 446
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 447
+Fecha 31
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 448
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 449
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 450
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 451
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 452
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 453
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 454
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 455
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 456
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 457
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 458
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 459
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 460
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 461
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 462
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 463
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 464
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 465
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 466
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 467
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 468
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 469
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 470
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 471
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 472
+Fecha 22
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 473
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 474
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 475
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 476
+Fecha 24
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 477
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 478
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 479
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 480
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 481
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 482
+Fecha 23
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 483
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 484
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 485
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 486
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 487
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 488
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 489
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 490
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 491
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 492
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 493
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 494
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 495
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 496
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 497
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 498
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 499
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 500
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 501
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 502
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 503
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 504
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 505
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 506
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 507
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 508
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 509
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 510
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 511
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 512
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 513
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 514
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 515
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 516
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 517
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 518
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 519
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 520
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 521
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 522
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 523
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 524
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 525
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 526
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 527
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 528
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 529
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 530
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 531
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 532
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 533
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 534
+Fecha 35
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 535
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 536
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 537
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 538
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 539
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 540
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 541
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 542
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 543
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 544
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 545
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 546
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 547
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 548
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 549
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 550
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 551
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 552
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 553
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 554
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 555
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 556
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 557
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 558
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 559
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 560
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 561
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 562
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 563
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 564
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 565
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 566
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 567
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 568
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 569
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 570
+Fecha 15
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 571
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 572
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 573
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 574
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 575
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 576
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 577
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 578
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 579
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 580
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 581
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 582
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 583
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 584
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 585
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 586
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 587
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 588
+Fecha 19
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 589
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 590
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 591
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 592
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 593
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 594
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 595
+Fecha 21
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 596
+Fecha 16
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 597
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 598
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 599
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 600
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 601
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 602
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 603
+Fecha 17
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 604
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 605
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 606
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 607
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 608
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 609
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 610
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 611
+Fecha 38
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 612
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 613
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 614
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 615
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 616
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 617
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 618
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 619
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 620
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 621
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 622
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 623
+Fecha 3
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 624
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 625
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 626
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 627
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 628
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 629
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 630
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 631
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 632
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 633
+Fecha 1
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 634
+Fecha 34
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 635
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 636
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 637
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 638
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 639
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 640
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 641
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 642
+Fecha 20
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 643
+Fecha 18
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 644
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 645
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 646
+Fecha 13
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 647
+Fecha 11
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 648
+Fecha 9
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 649
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 650
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 651
+Fecha 7
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 652
+Fecha 22
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 653
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 654
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 655
+Fecha 12
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 656
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 657
+Fecha 8
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 658
+Fecha 4
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 659
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 660
+Fecha 10
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 661
+Fecha 5
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 662
+Fecha 14
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 663
+Fecha 2
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 664
+Fecha 6
+N1 0
+N2 0
+N30
+N4 0
+N5 0
+E1 0
+E2 0
+ID 665
+Fecha 21
+N1 0
+N2 0
+N30

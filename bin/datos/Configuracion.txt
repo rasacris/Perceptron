@@ -1,0 +1,5 @@
+k= 3
+p= 1000
+nInicial= 0,8
+nFinal= 0
+numeroDatos= 102
